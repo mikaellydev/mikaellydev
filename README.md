@@ -8,7 +8,7 @@
 
 #
 
-<p align="center">Estudante do curso técnico de TI no Vasco Coutinho. Atualmente estudando sobre desenvolvimento web.
+<p align="center">Estudante do curso técnico de TI no Ceet Vasco Coutinho. Atualmente estudando sobre desenvolvimento web.
 Estou sempre expandindo meus conhecimentos e explorando novos desafios na tecnologia. Aprender e transformar esse aprendizado em soluções criativas é o que me motiva.
   
 #
