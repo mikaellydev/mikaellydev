@@ -5,15 +5,9 @@
 </div>
 
 
-
-#
-
 <p align="center">Estudante do curso técnico de TI no Ceet Vasco Coutinho. Atualmente estudando sobre desenvolvimento web.
 Estou sempre expandindo meus conhecimentos e explorando novos desafios na tecnologia. Aprender e transformar esse aprendizado em soluções criativas é o que me motiva.
-  
-#
 
-<img align="right" alt="" height="190px" src="./src/study.gif">
 
 
 <h3 align="center">My Stack </h3>
