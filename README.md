@@ -16,7 +16,7 @@ Estou sempre expandindo meus conhecimentos e explorando novos desafios na tecnol
 <img align="right" alt="" height="190px" src="./src/study.gif">
 
 
-<h3 align="left">My Stack ~</h3>
+<h3 align="center">My Stack </h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
