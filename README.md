@@ -12,7 +12,7 @@
 
 ---
 
-### 💻 &nbsp;**Tecnologias que uso no dia a dia**
+### &nbsp;**Tecnologias que uso no dia a dia**
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
@@ -25,24 +25,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="30" alt="Sequelize" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C#" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" />
 </div>
 
 ---
 
-### 📊 &nbsp;**Estatísticas do GitHub**
+###  &nbsp;**Estatísticas do GitHub**
 
-<div align="center">
-  <img src="https://github-readme-stats-kfb1.vercel.app/api?username=mikaellydev&show_icons=true&include_all_commits=true&count_private=true&private_contributions=true&theme=jolly" alt="GitHub stats" />
-  <br />
-  <img src="https://github-readme-stats-kfb1.vercel.app/api/top-langs/?username=mikaellydev&layout=compact&langs_count=8&count_private=true&private_contributions=true&theme=jolly" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-jpe9.vercel.app/api?username=mikaellydev&show_icons=true&include_all_commits=true&count_private=true&private_contributions=true&theme=jolly" alt="GitHub stats" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats-jpe9.vercel.app/api/top-langs/?username=mikaellydev&layout=compact&langs_count=8&count_private=true&private_contributions=true&theme=jolly" alt="Top Languages" />
+</p>
 
 ---
 
-### 🐍 &nbsp;**Contribuições Recentes**
+###  &nbsp;**Contribuições Recentes**
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg" />
