@@ -5,9 +5,9 @@
 </div>
 
 <p align="center">
-  Sistemas de Informação | UVV
-  Dev Web / Full Stack
-  Por aqui, compartilho meus projetos, aprendizados e testes do dia a dia.
+   <b>Sistemas de Informação</b> | UVV <br>
+   <b>Dev Web / Full Stack</b> <br><br>
+   Por aqui, compartilho meus projetos, aprendizados e testes do dia a dia.
 </p>
 
 ---
