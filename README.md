@@ -5,9 +5,9 @@
 </div>
 
 <p align="center">
-  Estudante de Técnico em Informática no CEET Vasco Coutinho.  
-  Apaixonada por desenvolvimento web e tecnologias modernas.  
-  Buscando oportunidades como estagiária ou desenvolvedora júnior para colocar meus conhecimentos em prática e aprender com desafios reais.
+  Sistemas de Informação | UVV
+  Dev Web / Full Stack
+  Por aqui, compartilho meus projetos, aprendizados e testes do dia a dia.
 </p>
 
 ---
